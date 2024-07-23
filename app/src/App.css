@@ -1,0 +1,7 @@
+.joke-box{
+  display: flex;
+  height: 100hv;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
